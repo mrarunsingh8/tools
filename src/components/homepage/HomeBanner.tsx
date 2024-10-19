@@ -19,7 +19,8 @@ export default function HomeBanner() {
                     <Image
                         src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/hero/phone-mockup.png"
                         alt="mockup"
-                        fill={true}
+                        width={600}
+                        height={100}
                     />
                 </div>
             </div>

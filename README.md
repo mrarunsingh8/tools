@@ -2,6 +2,10 @@
 
 #### Build your container: 
 
+````cmd
+docker build --no-cache -t nextjs-docker .
+````
+
 ````
 docker build -t nextjs-docker .
 ````
