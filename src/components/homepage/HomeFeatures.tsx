@@ -72,7 +72,7 @@ export default function HomeFeatures(){
                             </h3>
                             <p className="mt-4 text-gray-500 dark:text-gray-400">
                                 Build responsive layouts and design beautiful websites faster
-                                with Tailwind CSS and Flowbite's prebuilt components.
+                                with Tailwind CSS and Flowbite&pos;s prebuilt components.
                             </p>
                         </div>
                         {/* Feature 2 */}

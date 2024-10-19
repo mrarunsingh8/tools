@@ -1,4 +1,5 @@
 import {Button} from "flowbite-react";
+import Image from "next/image";
 
 export default function HomeBanner() {
     return (
@@ -15,9 +16,10 @@ export default function HomeBanner() {
                     <Button gradientDuoTone="cyanToBlue">Get Started</Button>
                 </div>
                 <div className="hidden lg:mt-0 lg:col-span-5 lg:flex">
-                    <img
+                    <Image
                         src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/hero/phone-mockup.png"
                         alt="mockup"
+                        fill={true}
                     />
                 </div>
             </div>

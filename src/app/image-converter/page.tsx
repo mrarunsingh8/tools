@@ -1,4 +1,4 @@
-import {Button, Card, Dropdown, FileInput, Spinner} from "flowbite-react";
+import {Button, FileInput, Spinner} from "flowbite-react";
 
 export default function ImageConverter(){
     return (

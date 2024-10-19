@@ -9,7 +9,7 @@ export default function HomeTestimonials() {
                     {/* Testimonial 1 */}
                     <Card>
                         <p className="text-gray-500 dark:text-gray-400">
-                            "This platform has saved me hours! I love how easy it is to convert and resize images."
+                            &quot;This platform has saved me hours! I love how easy it is to convert and resize images.&quot;
                         </p>
                         <h3 className="text-lg font-bold text-gray-900 dark:text-white">Jane Doe</h3>
                     </Card>
@@ -17,7 +17,7 @@ export default function HomeTestimonials() {
                     {/* Testimonial 2 */}
                     <Card>
                         <p className="text-gray-500 dark:text-gray-400">
-                            "The AI video generator is absolutely stunning! It helps me create content quickly."
+                            &quot;The AI video generator is absolutely stunning! It helps me create content quickly.&quot;
                         </p>
                         <h3 className="text-lg font-bold text-gray-900 dark:text-white">John Smith</h3>
                     </Card>
@@ -25,7 +25,7 @@ export default function HomeTestimonials() {
                     {/* Testimonial 3 */}
                     <Card>
                         <p className="text-gray-500 dark:text-gray-400">
-                            "A game-changer for media professionals. Highly recommend this platform!"
+                            &quot;A game-changer for media professionals. Highly recommend this platform!&quot;
                         </p>
                         <h3 className="text-lg font-bold text-gray-900 dark:text-white">Sarah Lee</h3>
                     </Card>
